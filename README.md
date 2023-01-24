@@ -1,5 +1,4 @@
-<!--### Hello world 👋-->
-![Hello World](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
+### Hello World 👋
 
 ## ✨ A propos de moi 
 Après quelques années en tant que Gestionnnaire terrestre chez un tour opérateur, je suis actuellement développeuse en formation chez [Ada Tech School](https://adatechschool.fr/).
