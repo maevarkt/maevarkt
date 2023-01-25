@@ -12,7 +12,7 @@ Dans le cadre de ma formation, je suis à la recherche d'une alternance (Juin/Ju
 Pour me joindre, vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.-->
 
 ## 🛠️ Mes stacks 
-![html](https://user-images.githubusercontent.com/73161009/214583475-d566213a-cc30-4d07-b5e6-62a95cbe43a3.png) ![Uploading html.png…]() ![css (1)](https://user-images.githubusercontent.com/73161009/214584483-05567ca4-dc26-42fe-8189-70ede8fcaa9a.png) ![js](https://user-images.githubusercontent.com/73161009/214584574-5f6a6207-e435-4afc-98ed-10e89d1c7d70.png) ![bootstrap](https://user-images.githubusercontent.com/73161009/214584636-87741f47-a4fb-4f2a-9190-1122079c270f.png)
+HTML, CSS, Bootstrap, JavaScript
 
 ## 💻 Mes projets 
 * Pico8 - Lua [Codev22](https://www.lexaloffle.com/bbs/?tid=50033)
