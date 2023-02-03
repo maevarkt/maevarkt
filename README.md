@@ -15,7 +15,7 @@ Pour me joindre, vous pouvez m'envoyer un message sur [Linkedin](https://www.lin
 HTML, CSS, Bootstrap, JavaScript
 
 ## 💻 Mes projets 
-* Pico8 - Lua [Codev22](https://www.lexaloffle.com/bbs/?tid=50033)
+* Lua -[Codev22](https://www.lexaloffle.com/bbs/?tid=50033)
 <!-- Extension Focus
 Chords -->
 
