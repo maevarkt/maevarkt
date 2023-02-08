@@ -11,7 +11,7 @@ Dans le cadre de ma formation, je suis à la recherche d'une alternance (Juin/Ju
 
 Pour me joindre, vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.-->
 
-## 🛠️ Mes stacks 
+## 🛠️ Mes skills 
 * HTML
 * CSS
 * Bootstrap
