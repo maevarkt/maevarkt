@@ -13,10 +13,12 @@ Pour me joindre, vous pouvez m'envoyer un message sur [Linkedin](https://www.lin
 
 ## 🛠️ Mes stacks 
 HTML, CSS, Bootstrap, JavaScript
+Yes, I speak English :) 
 
 ## 💻 Mes projets 
-* Lua -[Codev22](https://www.lexaloffle.com/bbs/?tid=50033)
-<!-- Extension Focus
+* [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) - Lua
+* Focus (extension Chrome) - Javascript
+<!--
 Chords -->
 
 <!--
