@@ -20,7 +20,7 @@ Pour me joindre, vous pouvez m'envoyer un message sur [Linkedin](https://www.lin
 
 ## 💻 Mes projets 
 * [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) - Lua
-* Focus (extension Chrome) - Javascript
+* [Focus](https://github.com/maevarkt/focus-extension) (extension Chrome) - Javascript
 <!--
 Chords -->
 
