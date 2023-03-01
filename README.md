@@ -17,6 +17,7 @@ Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C
 * CSS
 * Bootstrap
 * JavaScript
+* WordPress
 * Yes, I speak English :) 
 
 ## 💻 Mes projets 
