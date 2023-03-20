@@ -5,7 +5,7 @@ Après quelques années en tant que Gestionnnaire terrestre chez un tour opérat
 
 ## ✨Ce qui m'a donné envie de coder ? 
 D'abord, lors de mon premier stage en agence de voyages, j'ai participé au montage du site internet en gérant le référencement du site sur Google Adwords et en mis en ligne les produits. J'ai adoré l'idée d'être l'une des petites mains de ce site. 
-Puis, passionnée d'histoire de l'art et de design, c'est en visitant une exposition d'art numérique queje me suis intérogée sur la manière dont les oeuvres s'animaient. C'est ainsi que j'ai découvert que elles étaient réalisées par des développeurs et que j'ai décidé de donner un nouveau souffle à ma carrière. 
+Puis, passionnée d'histoire de l'art et de design, c'est en visitant une exposition d'art numérique que je me suis intérogée sur la manière dont les oeuvres s'animaient. C'est ainsi que j'ai découvert que elles étaient réalisées par des développeurs et que j'ai décidé de donner un nouveau souffle à ma carrière. 
 
 Dans le cadre de ma formation, je recherche une alternance (Juin 2023 - Juin 2024), pour un contrat de quatre jours en entreprise et un jour à l'école. 
 
