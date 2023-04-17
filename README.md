@@ -18,6 +18,8 @@ Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C
 * Bootstrap
 * JavaScript
 * WordPress
+* React
+* Tailwind
 * Yes, I speak English :) 
 
 ## 💻 Mes projets 
