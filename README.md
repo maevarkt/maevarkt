@@ -13,7 +13,7 @@ Dans le cadre de ma formation, je recherche une alternance (Septembre 2023 - Sep
 Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.--> 
 
 ## 🛠️ Mes skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,p5,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,p5js,wordpress,figma)](https://skillicons.dev)
 
 Yes, I speak English :) 
 
