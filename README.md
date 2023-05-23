@@ -20,7 +20,7 @@ Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C
 * WordPress
 * React
 * Tailwind -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress,figma)](https://skillicons.dev)
 * Yes, I speak English :) 
 
 ## 💻 Mes projets 
