@@ -13,13 +13,14 @@ Dans le cadre de ma formation, je recherche une alternance (Juin 2023 - Juin 202
 Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.--> 
 
 ## 🛠️ Mes skills 
-* HTML
+<!-- * HTML
 * CSS
 * Bootstrap
 * JavaScript
 * WordPress
 * React
-* Tailwind
+* Tailwind -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 * Yes, I speak English :) 
 
 ## 💻 Mes projets 
@@ -30,15 +31,4 @@ Chords -->
 
 <!--
 **maevarkt/maevarkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
