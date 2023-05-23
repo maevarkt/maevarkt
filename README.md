@@ -13,15 +13,9 @@ Dans le cadre de ma formation, je recherche une alternance (Juin 2023 - Juin 202
 Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.--> 
 
 ## 🛠️ Mes skills 
-<!-- * HTML
-* CSS
-* Bootstrap
-* JavaScript
-* WordPress
-* React
-* Tailwind -->
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress,figma)](https://skillicons.dev)
-* Yes, I speak English :) 
+Yes, I speak English :) 
 
 ## 💻 Mes projets 
 * [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) - Lua
