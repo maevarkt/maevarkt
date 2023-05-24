@@ -10,7 +10,7 @@ Puis, passionnée d'histoire de l'art et de design, c'est en visitant une exposi
 Dans le cadre de ma formation, je recherche une alternance (Septembre 2023 - Septembre 2024), pour un contrat de quatre jours en entreprise et un jour à l'école. 
 
 ## 📫Pour me joindre
-Vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.--> 
+Vous pouvez m'envoyer un message via mon [portfolio](https://maelab.vercel.app/) ou sur [Linkedin](https://www.linkedin.com/in/ma%C3%ABva-rakotonirina-4716b8173/) <!--ou sur la page Contact de mon portfolio.--> 
 
 ## 🛠️ Mes skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,wordpress,figma)](https://skillicons.dev)
