@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello 👋
 
 ## 🦄 A propos de moi 
 Après quelques années en tant que Gestionnnaire terrestre chez un tour opérateur, je suis actuellement développeuse en formation chez [Ada Tech School](https://adatechschool.fr/).
@@ -18,10 +18,8 @@ Vous pouvez m'envoyer un message via mon [portfolio](https://maelab.vercel.app/)
 Yes, I speak English :) 
 
 ## 💻 Mes projets 
-* [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) - Lua
-* [Focus](https://github.com/maevarkt/focus-extension) (extension Chrome) - Javascript
-<!--
-Chords -->
-<!--
-**maevarkt/maevarkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+* [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) : rétro gaming - Lua
+* [Focus](https://github.com/maevarkt/focus-extension) : extension Chrome tabs manager - Javascript
+
+## 🚧 A venir
+* Chords : application avec tablatures et diagrammes d'accords de ukulélé
