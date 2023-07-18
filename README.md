@@ -18,9 +18,9 @@ Vous pouvez m'envoyer un message via mon [portfolio](https://maelab.vercel.app/)
 Yes, I speak English :) 
 
 ## 💻 Mes projets 
-* [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) : rétro gaming - Lua
-* [Focus](https://github.com/maevarkt/focus-extension) : extension Chrome tabs manager - Javascript
-* [MaeLab](https://maelab.vercel.app/) : Portfolio
+* [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) : rétro gaming (Lua)
+* [Focus](https://github.com/maevarkt/focus-extension) : extension Chrome tabs manager (Javascript)
+* [MaeLab](https://maelab.vercel.app/) : Portfolio (React, Tailwind)
 
 ## 🚧 A venir
 * Blindtest
