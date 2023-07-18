@@ -20,6 +20,7 @@ Yes, I speak English :)
 ## 💻 Mes projets 
 * [Codev22](https://www.lexaloffle.com/bbs/?tid=50033) : rétro gaming - Lua
 * [Focus](https://github.com/maevarkt/focus-extension) : extension Chrome tabs manager - Javascript
+* [MaeLab](https://maelab.vercel.app/) : Portfolio
 
 ## 🚧 A venir
-* Chords : application avec tablatures et diagrammes d'accords de ukulélé
+* Blindtest
